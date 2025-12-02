@@ -8,8 +8,8 @@
 <!-- ABOUT ME -->
 ## 👨‍💻 About Me  
 - 🎓 **3rd Year BE Student** — Information Science & Engineering  
-- 💡 Passionate about **Web Development, Backend Engineering, and AI/ML**  
-- 🌱 Currently learning **Spring Boot, React.js, and AI Integrations**  
+- 💡 Passionate about **Web Development, Backend Engineering**  
+- 🌱 Currently learning **Spring Boot, React.js**  
 - 🚀 I learn by *building real-world projects*  
 - 🤝 Open to **internships, collaborations, and open-source contributions**  
 - 🎯 Goal: Become a **Full-Stack / Backend Developer**
@@ -53,20 +53,6 @@
 
 <!-- PROJECTS -->
 ## 🚀 Featured Projects  
-
-### 🔹 **Cafe Connect**
-AI-powered Café Ordering & Reservation System  
-**Tech:** React, Node.js, Express.js, MongoDB, Gemini API  
-🔗 *(Add GitHub repository link once uploaded)*  
-
----
-
-### 🔹 **Mental Health Website**
-Clean UI/UX website for mini-project  
-**Tech:** HTML, CSS, JavaScript  
-🔗 *(Link coming soon)*  
-
----
 
 ### 🔹 **Code Reviewer App**
 Full-stack AI-powered code review platform  
